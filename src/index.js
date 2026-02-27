@@ -1,4 +1,4 @@
-import { program } from "commander";
+/* import { program } from "commander";
 program
   .option("-a, --action <type>", "choose action")
   .option("-i, --id <type>", "user id")
@@ -34,4 +34,6 @@ async function invokeAction({ action, id, name, email, phone }) {
   }
 }
 
-invokeAction(options);
+invokeAction(options); */
+
+console.log("Welcome!");
