@@ -11,7 +11,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "module": "module",
+  "type": "module",
   "dependencies": {
     "commander": "^14.0.3"
   },
